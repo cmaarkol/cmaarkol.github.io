@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/lambda
 venue: "St. Catherine's College, University of Oxford"
-date: 10-10-2017
+date: 2017-10-10
 location: "Oxford, United Kingdom"
 ---
 
