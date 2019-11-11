@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/discrete-maths
 venue: "St. Catherine's College, University of Oxford"
-date: 2017
+date: 10-10-2017
 location: "Oxford, United Kingdom"
 ---
 
