@@ -17,7 +17,7 @@ Education
 
 Scholarships and Awards
 ======
-* Croucher Scholarship 2017, Croucher Foundation
+* [Croucher Scholarship 2017](https://scholars.croucher.org.hk/scholars/pui-yiu-carol-mak), Croucher Foundation
 * G-Research Prize 2016, Department of Computer Science, University of Oxford
   * Best Computer Science project in Mathematics and Computer Science
 * Goldsworthy Scholarship 2013-2016, St. Catherine’s College, University of Oxford
