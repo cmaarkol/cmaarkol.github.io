@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Carol Mak"
   avatar           : "profile.jpeg"
-  bio              : "DPhil in Semantics of Programming Languages"
+  bio              : "DPhil in Programming Languages"
   location         : "University of Oxford"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=lAdlJmkAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/carol-mak-14801a92"
-  orcid            :
+  orcid            : "https://orcid.org/0000-0002-6512-2864"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

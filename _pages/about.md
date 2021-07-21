@@ -16,4 +16,5 @@ Interest
 ======
 Carol is interested in
 semantics of programming languages,
-in particular probabilistic and differentiable programming languages.
+in particular probabilistic and differentiable programming languages and 
+Markov Chain Monte Carlo inference algorithms.
